@@ -143,3 +143,11 @@ Al finalizar el proyecto se contará con:
 - Identificación de oportunidades de mejora
 - Evidencia estadística para toma de decisiones
 - Visualizaciones listas para stakeholders
+
+<p align="center">
+  <img src="Vista_General_.png" width="700">
+</p>
+
+<p align="center">
+  <img src="Vista_Detalle_.png" width="700">
+</p>
